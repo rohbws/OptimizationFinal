@@ -1,0 +1,38 @@
+Event,needed_volunteers,Head volunteer?,Minimum (Head volunteer inclusive)
+Air Trajectory,5,Yes,
+Anatomy and Physiology,2,Yes,
+Astronomy,2,No,
+Chem Lab,0,No,
+Codebusters,1,No,
+Detector Building,4,Yes,
+Disease Detectives,2,No,
+Dynamic Planet,2,No,
+Ecology,2,No,
+Experimental Deisgn,5,Yes,5
+Fermi Questions,0,No,
+Flight,7,No,
+Forensics,4,Yes,
+Forestry,2,No,
+Fossils,2,No,
+Geologic Mapping,0,No,
+Microbe Mission,2,No,
+Optics,2,Yes,
+Robot Tour,6,Yes,
+Scrambler,3,Yes,
+Tower,4,Yes,
+Wind Power,4,No,
+Write It Do It,6,Yes,5
+Figure That,2,No,
+Pokemon Pset,3,Yes,
+Tournament Tycoon,0,No,
+Materials Science,4,Yes,
+Entomology,3,Yes
+Experimental Design,5,Yes
+Electric Vehicle,4,Yes
+Helicopter,3,Yes
+Bungee Drop,6,Yes
+,,,
+,,,
+,Notes:,- Use head volunteer & minimum to prioritize assignments??,
+,,- Maybe create a separate list of preferred volunteers by events??,
+,,"- Fill missing values(minimum), maybe a default value as well.",
