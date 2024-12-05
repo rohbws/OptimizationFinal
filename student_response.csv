@@ -1,7 +1,4 @@
-Name,Time_1,Time_2,Time_3,Time_4,Time_5,Time_6,Time_7,Time_8,attendance_likelihood,head_volunteer,stay_all_day,event,specific_event,event,specific_event,Which do you prefer?    =====================>,Event grader,Proctor,Runner/Floater,"Would you be interested in being a photographer? 
-
-0: No
-1: Yes"
+Name,Time_1,Time_2,Time_3,Time_4,Time_5,Time_6,Time_7,Time_8,attendance_likelihood,head_volunteer,stay_all_day,event,specific_event,event,specific_event,Which do you prefer?    =====================>,Event_grader,Proctor,Runner_Floater,photographer
 Ivan Ge,0,0,1,1,1,1,1,1,Decently likely,1,Yes,"Earth and Space Science, Physical Science and Chemistry, Technology and Engineering",Pokemon Pset or any hybrid builds,,,,0,0,0,0
 Daniel Ochoa,0,1,1,1,,,,,Decently likely,0,,,,"Life Science, Physical Science and Chemistry, Technology and Engineering",,No preference,0,0,0,0
 Alan Choi,1,1,0,0,0,1,1,1,YES!,0,,,,"Life Science, Inquiry and Nature of Science",,Being placed as an event grader and/or proctor,1,1,0,0
